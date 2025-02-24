@@ -1,0 +1,4 @@
+//passo a passo
+entrar na pasta e dar um git bash
+no terminar git init
+depois clicar em na pasta exibir / itens ocultos
