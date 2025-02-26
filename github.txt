@@ -1,4 +1,10 @@
 //passo a passo
-entrar na pasta e dar um git bash
-no terminar git init
-depois clicar em na pasta exibir / itens ocultos
+//entrar na pasta e dar um git bash
+//no terminal git init
+// clicar em na pasta exibir / itens ocultos
+// git add . criar os arquivos para branch
+// git status para exibir as mudanças e arquivos criados
+// git commit -m"texto para ser comitado" 
+// git push com o comando  git push --set-upstream origin master
+// no primeiro commit vai dar erro usar o comando  "<email do github>"
+//  git config --global user.name"<nome no github>"
